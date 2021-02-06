@@ -1,0 +1,6 @@
+framework module Pods_test_mvc_gabyTests {
+  umbrella header "Pods-test-mvc-gabyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
